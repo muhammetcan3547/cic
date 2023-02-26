@@ -1,10 +1,7 @@
-(termux 
-kod yazma )
-
-[{nasıl }]
-<muhammet can
-dizi>"1"
-'01'
-(kod) "01"
-{ddizi
-dizi
+https://github.com/muhammetcan3547/cic/edit/main/README.md
+ls
+cd README.md
+ls
+(Dizi)
+{01}
+<Kod>
